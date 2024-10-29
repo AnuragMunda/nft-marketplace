@@ -1,0 +1,6 @@
+{
+    "solidity.compileUsingRemoteVersion": "v0.8.27+commit.40a35a09",
+    "wake.compiler.solc.remappings": [
+        "@openzeppelin-contracts/=dependencies/@openzeppelin-contracts-5.1.0-rc.0/"
+    ]
+}
